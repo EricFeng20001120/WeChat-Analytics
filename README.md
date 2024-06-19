@@ -1,6 +1,3 @@
-Here's a sample README file for your project:
-
-```markdown
 # Data-Driven Relationships: Exploring WeChat Conversations of Couples
 
 In today's digital age, communication through messaging apps has become an integral part of our daily lives. Among these apps, WeChat stands out, especially in China, as a primary platform for personal and professional communication. For couples, WeChat is not just a messaging tool but a medium through which they share their lives, emotions, and experiences. Understanding these conversations can provide valuable insights into relationship dynamics and emotional health.
@@ -78,5 +75,3 @@ We used a pre-trained Llama2 model to summarize daily conversations, identifying
 ## Acknowledgments
 
 - Thanks to the [WeChatMsg](https://github.com/LC044/WeChatMsg) team for their useful application.
-
-```
